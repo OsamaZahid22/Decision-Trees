@@ -1,6 +1,3 @@
-Here’s a detailed README file based on the content provided:
-
----
 
 # Decision Trees for Classification
 
